@@ -3,7 +3,7 @@ entries:
   gitrepotest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-01T17:38:48.740267+01:00"
+    created: "2023-06-01T18:47:04.382407+01:00"
     description: A Helm chart repo using git
     digest: 23308c5db9bd94daa7bb5d3210107e10339086acddb4430c2cde3100cab71e63
     name: gitrepotest
@@ -11,4 +11,15 @@ entries:
     urls:
     - gitrepotest-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-01T17:38:48.739394+01:00"
+  helmpushdemo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-01T18:47:04.382818+01:00"
+    description: A Helm chart for Kubernetes push plugin
+    digest: 6f1a367a66981fbf86f0fb109197580ccea15c7faa935c233b52059a4661a8c2
+    name: helmpushdemo
+    type: application
+    urls:
+    - helmpushdemo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-01T18:47:04.38183+01:00"
